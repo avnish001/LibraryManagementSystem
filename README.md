@@ -31,7 +31,10 @@ A Java-based Library Management System that allows librarians to manage books, p
 
 ## Class Diagram
 
-![Class Diagram](E:\Prg Files\class-diagram.png)
+Here is the class diagram of the Library Management System:
+
+![Class Diagram](./class_diagram.png)
+
 
 The system follows a simple object-oriented design with three main classes:
 - `Book`: Represents a book with properties like title, author, ISBN, etc.
